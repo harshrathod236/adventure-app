@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adventure app</string>
+    <string name="facebook_app_id">699855401168882</string>
+    <string name="fb_login_protocol_scheme">fb699855401168882</string>
+    <string name="facebook_client_token">7ac15a2a3c3efc2fe4e11f8171c44ad0</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727672214809",
+    "project_id": "adventure-and-tour-camp-app",
+    "storage_bucket": "adventure-and-tour-camp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727672214809:android:5893d2de44a1fa77852188",
+        "android_client_info": {
+          "package_name": "com.example.adventure_ui_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727672214809-p9qgtq4s3dtk96b82k1kb5kuhfm6nn8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adventure_ui_demo",
+            "certificate_hash": "5eb9087507c536a174d55cb708c38062f9bdfc67"
+          }
+        },
+        {
+          "client_id": "727672214809-tu32edaet96hobgij9o9l8v96i4aohgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMcuqd9uDuYhTBU6MNpATTlp7fCO5_gwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727672214809-tu32edaet96hobgij9o9l8v96i4aohgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
